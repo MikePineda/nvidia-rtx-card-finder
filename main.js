@@ -16,7 +16,7 @@ const digitalLifeNvidia3070Url = "https://www.digitalife.com.mx/buscar/t_rtx-307
 
 
 //consts
-const priceFor3080 = 20000;
+const priceFor3080 = 15000;
 
 async function findRTX3070InDdTech() {
     console.log("Buscando RTX 3070 en ddtech...");
